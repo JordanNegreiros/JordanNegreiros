@@ -1,4 +1,4 @@
-Desenvolvedor Java | Financial Marketplace | Tribo Seguros | Squad Seguros
+Desenvolvedor Java | Financial Marketplace | Tribo Seguros | Squad XP
 
 <!---
 JordanNegreiros/JordanNegreiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
